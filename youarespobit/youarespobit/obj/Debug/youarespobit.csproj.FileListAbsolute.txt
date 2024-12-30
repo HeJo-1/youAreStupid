@@ -1,0 +1,10 @@
+C:\Users\monster\Desktop\c#\youarespobit\youarespobit\bin\Debug\youarespobit.exe.config
+C:\Users\monster\Desktop\c#\youarespobit\youarespobit\bin\Debug\youarespobit.exe
+C:\Users\monster\Desktop\c#\youarespobit\youarespobit\bin\Debug\youarespobit.pdb
+C:\Users\monster\Desktop\c#\youarespobit\youarespobit\obj\Debug\youarespobit.csproj.AssemblyReference.cache
+C:\Users\monster\Desktop\c#\youarespobit\youarespobit\obj\Debug\youarespobit.Form1.resources
+C:\Users\monster\Desktop\c#\youarespobit\youarespobit\obj\Debug\youarespobit.Properties.Resources.resources
+C:\Users\monster\Desktop\c#\youarespobit\youarespobit\obj\Debug\youarespobit.csproj.GenerateResource.cache
+C:\Users\monster\Desktop\c#\youarespobit\youarespobit\obj\Debug\youarespobit.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\c#\youarespobit\youarespobit\obj\Debug\youarespobit.exe
+C:\Users\monster\Desktop\c#\youarespobit\youarespobit\obj\Debug\youarespobit.pdb
